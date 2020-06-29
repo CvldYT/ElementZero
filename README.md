@@ -32,7 +32,7 @@ A: I created a dll that simply forwards all APIs to the open source version of C
 
 
 ## [WIN] Easy Beta Install (Use latest Action) <-- Sorta like a beta
-## Betas can be buggy, but provide more features then standard releases.
+Betas can be buggy, but provide more features then standard releases.
 
 0. Make a GitHub Account.
 2. Download the action (here)[https://github.com/Element-0/ElementZero/actions]
@@ -46,7 +46,7 @@ A: I created a dll that simply forwards all APIs to the open source version of C
 
 
 ## [WIN] Easy Release Install
-## Releases are stable, but lack the features present in the action or beta.
+Releases are stable, but lack the features present in the action or beta.
 
 0. Download newest release of BDS Softwear from mojang (here)[https://www.minecraft.net/en-us/download/server/bedrock/]
 1. Download EZ Softwear (Clone, then download as ZIP)
