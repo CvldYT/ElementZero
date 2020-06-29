@@ -35,10 +35,10 @@ A: I created a dll that simply forwards all APIs to the open source version of C
 Betas can be buggy, but provide more features then standard releases.
 
 0. Make a GitHub Account.
-2. Download the action (here)[https://github.com/Element-0/ElementZero/actions]
+2. Download the action [here](https://github.com/Element-0/ElementZero/actions)
 3. Click the newest action that is complete
 4. Download DIST file (Just click it)
-5. Download newest release of BDS Softwear from mojang (here)[https://www.minecraft.net/en-us/download/server/bedrock/]
+5. Download newest release of BDS Softwear from mojang [here](https://www.minecraft.net/en-us/download/server/bedrock/)
 6. Run the BDS server at least once after extraction.
 7. Copy DIST.ZIP file contents into the BDS folder (Where you extracted BDS Softwear to)
 8. Run bedrock_server_mod.exe and enjoy!
@@ -48,7 +48,7 @@ Betas can be buggy, but provide more features then standard releases.
 ## [WIN] Easy Release Install
 Releases are stable, but lack the features present in the action or beta.
 
-0. Download newest release of BDS Softwear from mojang (here)[https://www.minecraft.net/en-us/download/server/bedrock/]
+0. Download newest release of BDS Softwear from mojang [here](https://www.minecraft.net/en-us/download/server/bedrock/)
 1. Download EZ Softwear (Clone, then download as ZIP)
 2. Run the BDS server at least once after extraction.
 3. Copy ElementZero-master.ZIP file contents into the BDS folder (Where you extracted BDS Softwear to)
